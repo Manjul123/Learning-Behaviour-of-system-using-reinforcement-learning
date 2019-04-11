@@ -1,0 +1,9 @@
+ni=no=number of inputs and outputs
+arr=dictionary of inputs
+state=initial states of output
+params=initial states of input
+lss= list of parameter(inputs)
+lso=list of parameter(outputs)
+outp=dictionary of inputs with goal states given
+reseop = initial output list to reset
+resein = initial input list to reset
